@@ -4,7 +4,6 @@ You are provided empty JavaScript files (or having function signatures) in this 
 You have to follow the instructions given in each file and write the code in the same file to complete the assignment.
 
 ### Assignments
-Feel free to start doing these in any order you like.
 1. Easy
 2. Medium
 3. Hard
